@@ -1,0 +1,17 @@
+git init repname
+git add <filename>
+cd repository name
+git commit -m "first commit"
+git status
+git rm <filename>-remove file from working and staging area.
+ls-alrt -shows no of files in repository
+git clean-remove untracked file
+  ->git clean -n
+  ->git clean -f
+
+remote repository:
+ 1.visibility:
+     public
+     private
+ 2.for company purpose
+
